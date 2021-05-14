@@ -1,0 +1,100 @@
+#EXTM3U
+
+#EXTINF:-1,ADN 40 (XHTVM-TDT) (480p) group-title="TV Abierta",
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
+
+#EXTINF:-1,ADN 40 (XHTVM-TDT)group-title="TV Abierta",
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
+
+#EXTINF:-1,Alcarria TV group-title="TV Abierta",
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1,Canal 10 Cancún (720p) group-title="TV Abierta",
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1,Canal 26 (360p) group-title="TV Abierta",
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8
+
+#EXTINF:-1,Canal 26 (720p) group-title="TV Abierta",
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1,Canal Catorce (720p)group-title="TV Abierta",
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+
+#EXTINF:-1,Canal Mundo+ (560p)group-title="TV Abierta",
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1,Canal Once Internacional group-title="TV Abierta",
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1,Canal Once Internacional group-title="TV Abierta",
+https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist.m3u8
+
+#EXTINF:-1,Canal Once Nacional group-title="TV Abierta",
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+
+#EXTINF:-1,Capital 21 group-title="TV Abierta",
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+
+#EXTINF:-1,Claro Sports (1080p) group-title="TV Abierta",
+https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+
+#EXTINF:-1,DW Español (400p) group-title="TV Abierta",
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1,DW Latino America group-title="TV Abierta",
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1,El Garage TV (480p) group-title="TV Abierta",
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+
+#EXTINF:-1,France 24 Español group-title="TV Abierta",
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
+
+#EXTINF:-1,France 24 Español (576p) group-title="TV Abierta",
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+
+#EXTINF:-1,Genesis TV (720p) group-title="TV Abierta",
+http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
+
+#EXTINF:-1,Monte Maria (1080p)group-title="TV Abierta",
+http://162.212.176.51:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1,MVM Noticias (Oaxaca) group-title="TV Abierta",
+http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
+
+#EXTINF:-1,POP TV group-title="TV Abierta",
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1489788315_b978000_sleng.m3u8
+
+#EXTINF:-1,RCG TV-1 (XHRCG-TDT) (360p) group-title="TV Abierta",
+https://5caf24a595d94.streamlock.net:1937/8078/8078/playlist.m3u8
+
+#EXTINF:-1,RCG TV-2 (360p) group-title="TV Abierta",
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
+#EXTINF:-1,RCG TV-3 (360p) group-title="TV Abierta",
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
+#EXTINF:-1,RTQ Queretaro (360p) group-title="TV Abierta",
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+#EXTINF:-1,Telefórmula group-title="TV Abierta",
+https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1,Telemax (XEWH-TDT) (720p) group-title="TV Abierta",
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+#EXTINF:-1,Teleritmo (Monterrey) (480p) group-title="TV Abierta",
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1,TVMÁS (XHGV-TDT) group-title="TV Abierta",
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
+
+#EXTINF:-1,TVP group-title="TV Abierta",
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w747018279_b1428000_sleng.m3u8
+
+#EXTINF:-1,TVP mochis HD group-title="TV Abierta",
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/chunklist_w52505888_b1428000_sleng.m3u8
+
+#EXTINF:-1,TVP obregon group-title="TV Abierta",
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/chunklist_w888631267_b1428000_sleng.m3u8
