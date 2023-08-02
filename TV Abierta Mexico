@@ -1,100 +1,89 @@
-#EXTM3U
+#EXTINF:-1 tv-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es" tvg-id="ae,AE Mundo
+http://45.65.137.206:8000/play/a0gd/index.m3u8
 
-#EXTINF:-1,ADN 40 (XHTVM-TDT) (480p) group-title="TV Abierta",
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
+#EXTINF:-1 tv-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png",Animal Planet
+http://45.65.137.206:8000/play/a0g6/index.m3u8
 
-#EXTINF:-1,ADN 40 (XHTVM-TDT)group-title="TV Abierta",
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
+#EXTINF:-1  tv-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg/revision/latest?cb=20100602093349",BabyFirst
+http://45.65.137.206:8000/play/a0fo/index.m3u8
 
-#EXTINF:-1,Alcarria TV group-title="TV Abierta",
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Canal de las  Estrellas
+http://45.65.137.206:8000/play/a0gg/index.m3u8
 
-#EXTINF:-1,Canal 10 Cancún (720p) group-title="TV Abierta",
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tv-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFt9Gt_ExcSORR_0FteUrZpSXcscsYGKjj-w&usqp=CAU",Cartoon Network
+http://45.65.137.206:8000/play/a0fj/index.m3u8
 
-#EXTINF:-1,Canal 26 (360p) group-title="TV Abierta",
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8
+#EXTINF:-1  tv-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cinecanal
+http://45.65.137.206:8000/play/a0fb/index.m3u8
 
-#EXTINF:-1,Canal 26 (720p) group-title="TV Abierta",
-http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tv-logo="https://pbs.twimg.com/profile_images/437402566297518080/nFdVlOL-_400x400.jpeg",Claro Sports
+http://45.65.137.206:8000/play/a0fl/index.m3u8
 
-#EXTINF:-1,Canal Catorce (720p)group-title="TV Abierta",
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1 tv-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png",Discovery Channel
+http://45.65.137.206:8000/play/a0g5/index.m3u8
 
-#EXTINF:-1,Canal Mundo+ (560p)group-title="TV Abierta",
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel
+http://45.65.137.206:8000/play/a0g4/index.m3u8
 
-#EXTINF:-1,Canal Once Internacional group-title="TV Abierta",
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 tv-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png",E Entertainment
+http://45.65.137.206:8000/play/a0g8/index.m3u8
 
-#EXTINF:-1,Canal Once Internacional group-title="TV Abierta",
-https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist.m3u8
+#EXTINF:-1 tv-logo="https://assets.stickpng.com/thumbs/5847f1b0cef1014c0b5e485d.png",ESPN
+http://45.65.137.206:8000/play/a0gb/index.m3u8
 
-#EXTINF:-1,Canal Once Nacional group-title="TV Abierta",
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 tv-logo="https://logowik.com/content/uploads/images/espn24510.jpg",ESPN 2 
+http://45.65.137.206:8000/play/a0ga/index.m3u8
 
-#EXTINF:-1,Capital 21 group-title="TV Abierta",
-https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1 tv-logo="https://w7.pngwing.com/pngs/773/988/png-transparent-fox-sports-1-ultimate-fighting-championship-fox-sports-2-speed-fox-sports-sun-television-emblem-text.png",Fox Sports 2
+http://45.65.137.206:8000/play/a0gh/index.m3u8
 
-#EXTINF:-1,Claro Sports (1080p) group-title="TV Abierta",
-https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+#EXTINF:-1  tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png",Fox Sports 3
+http://45.65.137.206:8000/play/a0gi/index.m3u8
 
-#EXTINF:-1,DW Español (400p) group-title="TV Abierta",
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png",History Channel
+http://45.65.137.206:8000/play/a0fa/index.m3u8
 
-#EXTINF:-1,DW Latino America group-title="TV Abierta",
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1  tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1280px-I.Sat_logo.svg.png",I-Sat
+http://45.65.137.206:8000/play/a0fd/index.m3u8
 
-#EXTINF:-1,El Garage TV (480p) group-title="TV Abierta",
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tv-logo="data:image/png;base64,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",Lifetime
+http://45.65.137.206:8000/play/a0fp/index.m3u8
 
-#EXTINF:-1,France 24 Español group-title="TV Abierta",
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
+#EXTINF:-1 tv-logo="https://assets.stickpng.com/images/612ce37a1b9679000402af15.png",MTV
+http://45.65.137.206:8000/play/a0fe/index.m3u8
 
-#EXTINF:-1,France 24 Español (576p) group-title="TV Abierta",
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:-1 tv-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png",Nat Geo
+http://45.65.137.206:8000/play/a0f9/index.m3u8
 
-#EXTINF:-1,Genesis TV (720p) group-title="TV Abierta",
-http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/1200px-Nick_logo_2009.svg.png",Nickelodeon
+http://45.65.137.206:8000/play/a0f8/index.m3u8
 
-#EXTINF:-1,Monte Maria (1080p)group-title="TV Abierta",
-http://162.212.176.51:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg",STAR CHANNEL
+http://45.65.137.206:8000/play/a0fh/index.m3u8
 
-#EXTINF:-1,MVM Noticias (Oaxaca) group-title="TV Abierta",
-http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",SyFy
+http://45.65.137.206:8000/play/a0fq/index.m3u8
 
-#EXTINF:-1,POP TV group-title="TV Abierta",
-https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1489788315_b978000_sleng.m3u8
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png",TCM
+http://45.65.137.206:8000/play/a0fi/index.m3u8
 
-#EXTINF:-1,RCG TV-1 (XHRCG-TDT) (360p) group-title="TV Abierta",
-https://5caf24a595d94.streamlock.net:1937/8078/8078/playlist.m3u8
+#EXTINF:-1 tv-logo="https://1000marcas.net/wp-content/uploads/2021/04/TLC-Logo.png",TLC
+http://45.65.137.206:8000/play/a0ge/index.m3u8
 
-#EXTINF:-1,RCG TV-2 (360p) group-title="TV Abierta",
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png",TNT
+http://45.65.137.206:8000/play/a0fk/index.m3u8
 
-#EXTINF:-1,RCG TV-3 (360p) group-title="TV Abierta",
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2399px-Logo_TVE-Internacional.svg.png",TVE
+http://45.65.137.206:8000/play/a0fn/index.m3u8
 
-#EXTINF:-1,RTQ Queretaro (360p) group-title="TV Abierta",
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg",Telemundo
+http://45.65.137.206:8000/play/a0gj/index.m3u8
 
-#EXTINF:-1,Telefórmula group-title="TV Abierta",
-https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Universal-Pictures-Logo.svg/2560px-Universal-Pictures-Logo.svg.png",Universal
+http://45.65.137.206:8000/play/a0fc/index.m3u8
 
-#EXTINF:-1,Telemax (XEWH-TDT) (720p) group-title="TV Abierta",
-http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:-1 tv-logo="https://w7.pngwing.com/pngs/887/685/png-transparent-logo-warner-bros-encapsulated-postscript-warner-tv-mtv-logo-emblem-trademark-logo.png",Warner
+http://45.65.137.206:8000/play/a0g7/index.m3u8
 
-#EXTINF:-1,Teleritmo (Monterrey) (480p) group-title="TV Abierta",
-http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1,TVMÁS (XHGV-TDT) group-title="TV Abierta",
-https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
-
-#EXTINF:-1,TVP group-title="TV Abierta",
-https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w747018279_b1428000_sleng.m3u8
-
-#EXTINF:-1,TVP mochis HD group-title="TV Abierta",
-https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/chunklist_w52505888_b1428000_sleng.m3u8
-
-#EXTINF:-1,TVP obregon group-title="TV Abierta",
-https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/chunklist_w888631267_b1428000_sleng.m3u8
+#EXTINF:-1 tv-logo="https://yt3.googleusercontent.com/BjR3F9_eutZ7GXE02ycZUq5EjO5wOB6T84whFNjKU2jTMuQlYkppML6Shyd6kI3X6yPAdHpYyYs=s900-c-k-c0x00ffffff-no-rj",Zona Latina
+http://45.65.137.206:8000/play/a0ff/index.m3u8
