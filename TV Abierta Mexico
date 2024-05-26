@@ -1,89 +1,307 @@
-#EXTINF:-1 tv-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es" tvg-id="ae,AE Mundo
-http://45.65.137.206:8000/play/a0gd/index.m3u8
+#EXTM3U
 
-#EXTINF:-1 tv-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png",Animal Planet
-http://45.65.137.206:8000/play/a0g6/index.m3u8
+#EXTINF:-1,A+ (480p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1  tv-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg/revision/latest?cb=20100602093349",BabyFirst
-http://45.65.137.206:8000/play/a0fo/index.m3u8
+#EXTINF:-1,ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Canal de las  Estrellas
-http://45.65.137.206:8000/play/a0gg/index.m3u8
+#EXTINF:-1,Afizzionados (576p)
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 
-#EXTINF:-1 tv-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFt9Gt_ExcSORR_0FteUrZpSXcscsYGKjj-w&usqp=CAU",Cartoon Network
-http://45.65.137.206:8000/play/a0fj/index.m3u8
+#EXTINF:-1,Azteca 7 (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1  tv-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cinecanal
-http://45.65.137.206:8000/play/a0fb/index.m3u8
+#EXTINF:-1,Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tv-logo="https://pbs.twimg.com/profile_images/437402566297518080/nFdVlOL-_400x400.jpeg",Claro Sports
-http://45.65.137.206:8000/play/a0fl/index.m3u8
+#EXTINF:-1,Azteca Uno (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tv-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png",Discovery Channel
-http://45.65.137.206:8000/play/a0g5/index.m3u8
 
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel
-http://45.65.137.206:8000/play/a0g4/index.m3u8
+#EXTINF:-1,CGTN Español (576p)
+https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tv-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png",E Entertainment
-http://45.65.137.206:8000/play/a0g8/index.m3u8
+#EXTINF:-1,Claro Sports
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tv-logo="https://assets.stickpng.com/thumbs/5847f1b0cef1014c0b5e485d.png",ESPN
-http://45.65.137.206:8000/play/a0gb/index.m3u8
+#EXTINF:-1,DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tv-logo="https://logowik.com/content/uploads/images/espn24510.jpg",ESPN 2 
-http://45.65.137.206:8000/play/a0ga/index.m3u8
+#EXTINF:-1,El 15 TV (720p)
+https://stream.oursnetworktv.com/latin/encoder32/playlist.m3u8
 
-#EXTINF:-1 tv-logo="https://w7.pngwing.com/pngs/773/988/png-transparent-fox-sports-1-ultimate-fighting-championship-fox-sports-2-speed-fox-sports-sun-television-emblem-text.png",Fox Sports 2
-http://45.65.137.206:8000/play/a0gh/index.m3u8
+#EXTINF:-1,El NU9VE (1080p)
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
-#EXTINF:-1  tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png",Fox Sports 3
-http://45.65.137.206:8000/play/a0gi/index.m3u8
+#EXTINF:-1,Estrella TV (1080p)
+https://estrellatv-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png",History Channel
-http://45.65.137.206:8000/play/a0fa/index.m3u8
+#EXTINF:-1,EWTN el Canal Católico (720p) [Not 24/7]
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1  tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1280px-I.Sat_logo.svg.png",I-Sat
-http://45.65.137.206:8000/play/a0fd/index.m3u8
+#EXTINF:-1,Foro TV (1080p)
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 
-#EXTINF:-1 tv-logo="data:image/png;base64,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",Lifetime
-http://45.65.137.206:8000/play/a0fp/index.m3u8
+#EXTINF:-1,France 24 Español (1080p)
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-#EXTINF:-1 tv-logo="https://assets.stickpng.com/images/612ce37a1b9679000402af15.png",MTV
-http://45.65.137.206:8000/play/a0fe/index.m3u8
+#EXTINF:-1,Golden Plus (576p)
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
-#EXTINF:-1 tv-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png",Nat Geo
-http://45.65.137.206:8000/play/a0f9/index.m3u8
+#EXTINF:-1,Golden Premier (576p)
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/1200px-Nick_logo_2009.svg.png",Nickelodeon
-http://45.65.137.206:8000/play/a0f8/index.m3u8
+#EXTINF:-1,Las Estrellas Latin America (720p)
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg",STAR CHANNEL
-http://45.65.137.206:8000/play/a0fh/index.m3u8
+#EXTINF:-1,Milenio Television
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",SyFy
-http://45.65.137.206:8000/play/a0fq/index.m3u8
+#EXTINF:-1,NMás (1080p)
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png",TCM
-http://45.65.137.206:8000/play/a0fi/index.m3u8
+#EXTINF:-1,NMás Media (1080p)
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 
-#EXTINF:-1 tv-logo="https://1000marcas.net/wp-content/uploads/2021/04/TLC-Logo.png",TLC
-http://45.65.137.206:8000/play/a0ge/index.m3u8
+#EXTINF:-1,Novelisima
+https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png",TNT
-http://45.65.137.206:8000/play/a0fk/index.m3u8
+#EXTINF:-1,Once México (1080p)
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2399px-Logo_TVE-Internacional.svg.png",TVE
-http://45.65.137.206:8000/play/a0fn/index.m3u8
+#EXTINF:-1,Pluto TV EN DIRECTO EN VIVO (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
 
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg",Telemundo
-http://45.65.137.206:8000/play/a0gj/index.m3u8
+#EXTINF:-1,Pluto TV MTV (Mexico) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Universal-Pictures-Logo.svg/2560px-Universal-Pictures-Logo.svg.png",Universal
-http://45.65.137.206:8000/play/a0fc/index.m3u8
+#EXTINF:-1,Pluto TV MTV Embarazada a los 16 (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tv-logo="https://w7.pngwing.com/pngs/887/685/png-transparent-logo-warner-bros-encapsulated-postscript-warner-tv-mtv-logo-emblem-trademark-logo.png",Warner
-http://45.65.137.206:8000/play/a0g7/index.m3u8
+#EXTINF:-1,Presumiendo México (720p)
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 
-#EXTINF:-1 tv-logo="https://yt3.googleusercontent.com/BjR3F9_eutZ7GXE02ycZUq5EjO5wOB6T84whFNjKU2jTMuQlYkppML6Shyd6kI3X6yPAdHpYyYs=s900-c-k-c0x00ffffff-no-rj",Zona Latina
-http://45.65.137.206:8000/play/a0ff/index.m3u8
+#EXTINF:-1,Quiero TV (1080p)
+https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
+
+#EXTINF:-1,Tastemade en Español (1080p)
+https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,TeleFórmula (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+
+#EXTINF:-1,Telemax (XEWH-TDT) (1080p)
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+
+#EXTINF:-1,Teleritmo (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1,TeleSUR (1080p)
+https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
+
+#EXTINF:-1,TUDN (720p)
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+
+#EXTINF:-1,TVE Internacional America (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+
+#EXTINF:-1,TVE Star HD (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+
+#EXTINF:-1,TVMás (720p)
+https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
+
+#EXTINF:-1,ViX Jajaja (1080p)
+https://d1f3q72l8uy8ur.cloudfront.net/dist/samsungtv/318/hls/master/playlist.m3u8
+
+#EXTINF:-1,ViX Parejas (1080p)
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: AZTECA UNO -1 HR
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
+
+#EXTINF:-1,MX: LAS ESTRELLAS LATAM
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: IMAGEN TV
+http://181.78.105.146:2000/play/a00h/index.m3u8
+
+#EXTINF:-1,MX: IMAGEN TV -1 HR
+https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
+
+#EXTINF:-1,MX: AZTECA 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
+#EXTINF:-1,MX: AZTECA 7 3
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
+#EXTINF:-1,MX: MILENIO
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1,MX: EURO NEWS
+https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FORO TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
+#EXTINF:-1,MX: N+ GDL
+https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
+
+#EXTINF:-1,MX: N+ MTY
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
+
+#EXTINF:-1,MX: VIVO PLAY
+https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
+
+#EXTINF:-1,PR: UNIVISION
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+
+#EXTINF:-1,PR: TELEMUNDO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1,UNIVERSO
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
+
+#EXTINF:-1,ESPN DEPORTES
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
+
+#EXTINF:-1,FOX DEPORTES
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
+
+#EXTINF:-1,SV: CANAL 12
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1,SV: CANAL 57
+https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
+
+#EXTINF:-1,PE: PANAMERICANA
+https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+#EXTINF:-1,AL JAZEERA ARAB
+https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
+
+#EXTINF:-1,LA LIGA 01
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1,LMB: CLARO SPORTS
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+
+#EXTINF:-1,LMB: INTERNETV DEPORTES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+
+#EXTINF:-1,LMB: AYM SPORTS
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
+
+#EXTINF:-1,LMB: AYM SPORTS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+
+#EXTINF:-1,SON: TELEMAX
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+
+#EXTINF:-1,MX: FOX SPORTS ESPAÑOL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1,MX: BEiN SPORT
+https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: MLB
+https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 1
+https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 3
+https://linear-440.frequency.stream/mt/studio/440/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 4
+https://linear-441.frequency.stream/mt/studio/441/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 5
+https://linear-442.frequency.stream/mt/studio/442/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 6
+https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 8
+https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 9
+https://linear-363.frequency.stream/mt/studio/363/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 10
+https://linear-364.frequency.stream/mt/studio/364/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 11
+https://linear-365.frequency.stream/mt/studio/365/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 12
+https://linear-366.frequency.stream/mt/studio/366/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 13
+https://linear-367.frequency.stream/mt/studio/367/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 14
+https://linear-368.frequency.stream/mt/studio/368/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 15
+https://linear-369.frequency.stream/mt/studio/369/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 16
+https://linear-370.frequency.stream/mt/studio/370/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 17
+https://linear-371.frequency.stream/mt/studio/371/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 18
+https://linear-372.frequency.stream/mt/studio/372/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 19
+https://linear-373.frequency.stream/mt/studio/373/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 20
+https://linear-374.frequency.stream/mt/studio/374/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 21
+https://linear-375.frequency.stream/mt/studio/375/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 22
+https://linear-376.frequency.stream/mt/studio/376/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 23
+https://linear-377.frequency.stream/mt/studio/377/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 24
+https://linear-378.frequency.stream/mt/studio/378/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 25
+https://linear-379.frequency.stream/mt/studio/379/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 26
+https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 27
+https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 29
+https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 30
+https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 31
+https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
+
+#EXTINF:-1,MX: FUTBOL 32
+https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
+
+#EXTINF:-1,Claro Sport
+http://181.78.105.146:2000/play/a053/index.m3u8
+
+#EXTINF:-1,ESPN 2
+http://181.78.105.146:2000/play/a063/index.m3u8
+
+#EXTINF:-1,ESPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+
+#EXTINF:-1,ESPN3
+http://181.78.105.146:2000/play/a03n/index.m3u8
